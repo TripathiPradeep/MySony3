@@ -1,0 +1,22 @@
+@CHARSET "ISO-8859-1";
+
+p {
+    color: red;
+    text-align: center;
+}
+
+#register {
+    text-align: center;
+    color: green;
+    size: 100em;
+}
+
+.center {
+    text-align: right;
+    color: blue;
+}
+
+ h1, h5 {
+    text-align: center;
+    color: orange;
+}

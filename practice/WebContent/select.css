@@ -1,0 +1,68 @@
+p.first{
+
+border:4px;
+
+border-color:red;
+
+border-style: dashed;
+
+}
+
+
+#second{
+
+border:4px;
+
+border-left:6px solid red;
+
+background-color: lightgrey;
+
+}
+
+div {
+    width: 300px;
+    border: 100px solid green;
+    padding: 25px;
+    background: red;
+    display: inline-block;
+  
+}
+
+
+.hi{
+    background: blue;
+    float: right;
+}
+#three{
+
+border-style:outset;
+
+width:50%;
+
+margin-left: 25%;
+
+}
+
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    background-color: red;
+}
+img {
+    opacity: 0.5;
+    filter: alpha(opacity=50); 
+}
+#raif {
+    opacity: 0.3;
+    filter: alpha(opacity=50); 
+}
+#d {
+	width: 300px;
+    border: 100px solid green;
+    padding: 25px;
+    margin: 25px;
+    float: right;
+}
+	
