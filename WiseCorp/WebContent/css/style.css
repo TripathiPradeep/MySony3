@@ -1,0 +1,1498 @@
+
+@charset "utf-8";
+body {
+	margin-left: 15%;
+	margin-right: 15%;
+}
+html, .main {
+	
+}
+.main {
+	
+}
+.clr {
+	clear:both;
+	padding:0;
+	margin:0;
+	width:100%;
+	font-size:0;
+	line-height:0;
+	list-style-type: none;
+}
+h2.star {
+	color: white;
+	padding: 10px;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+p {
+	
+	
+	
+	
+	
+	
+	
+}
+a {
+	color:orange;
+	
+	
+	
+	
+	
+	
+	
+}
+.header, .content, .menu_nav, .fbg, .footer, form, ol, ol li, ul, .content .mainbar, .content .sidebar {
+	margin:0;
+	padding:0;
+	
+	
+	
+	
+	
+	
+}
+.header {
+	
+	
+	
+	
+	
+	
+	
+}
+.header_resize {
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+.logo {
+	display: inline-block;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+h1 {
+	width: 1000px;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+h1 a, h1 a:hover {
+	color: black;
+	font-size: 40px;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+h1 span {
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+h1 small {
+	font-size: 20px;
+	color: orange;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+.slider {
+	padding:28px 0 0;
+	background:url(../images/slider_bg.gif) no-repeat left 348px;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+.rss {
+	padding:18px 20px 0 0;
+	float:right;
+	width:auto;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+.rss p {
+	margin:0;
+	padding:0;
+	float:right;
+	width:auto;
+	color:#fff;
+	font-size:13px;
+	line-height:1.5em;
+	font-weight:bold;
+}
+.rss a {
+	color:#fff;
+	text-decoration:none;
+}
+.rss a:hover {
+	text-decoration:underline;
+	
+	
+	
+	
+}
+.rss img {
+	margin:-3px 0 -3px 6px;
+	border:none;
+	
+	
+	
+	
+	
+	
+	
+}
+.menu_nav {
+	margin-left: 0px;
+	margin-right: 0px;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+.menu_nav ul {
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    border: 0px solid #555;
+    
+    
+    
+    
+    
+    
+    
+}
+.menu_nav ul li {
+	text-align: center;
+    border-bottom: 0px solid #555;
+    display: inline;
+    float: left;
+    
+    
+    
+    
+    
+    
+    
+    
+}
+.menu_nav ul li a {
+	display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+	padding-left: 63px;
+	padding-right: 63px;
+	padding-bottom: 15px;
+	padding-top: 15px;
+	
+	
+	
+	
+	
+	
+}
+.menu_nav ul li.active a, .menu_nav ul li a:hover {
+    color: #ffffff;
+    background-color: #ff8000;
+    
+    
+    
+    
+    
+    
+}
+.content {
+	
+	
+	
+	
+	
+	
+	
+	
+}
+.content_resize {
+	display: inline;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+.content .mainbar {
+	max-width: 700px;
+	display: inline-block;
+	width: 700px;
+	
+	
+	
+	
+	
+	
+	
+	
+}
+.content .mainbar h2 {
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+.content .mainbar div.img {
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+.content .mainbar img {
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+.content .mainbar img.fl {
+	
+	
+	
+	
+	
+	
+	
+	
+	 
+	
+	
+	
+	
+}
+.content .mainbar .article {
+	
+	font-family: sans-serif;
+	
+	 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+.content .mainbar .article #leavereply ol{
+	list-style-type: none;
+}
+.content .mainbar .article #sendemail ol{
+	list-style-type: none;
+}
+.content .mainbar .article .infopost #backcolor{
+	
+	background-color: orange;
+	color:white;
+	size: 0px;
+}
+.content .mainbar .article .infopost .com #backcolor{
+	
+	padding: 10px; 
+}
+.content .mainbar .post_content {
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+.content .mainbar .post_content strong {
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+.content .sidebar {
+	max-width: 300px;
+	
+	display: inline-block;
+	margin-top: 40px;
+	width: 200px;
+	float: right;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+.content .sidebar .gadget .star{
+	background-color: orange;
+
+}
+.content .sidebar .gadget {
+	
+	background-color: lightgrey;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+.content .sidebar h2 {
+	
+	background-color: orange;
+	text-color: white;
+	text-align: center;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+}
+ul.sb_menu, ul.ex_menu {
+	
+	padding-bottom: 20px;
+	margin-left: 10px;
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+ul.sb_menu li, ul.ex_menu li {
+	list-style-type: none;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+ul.sb_menu li {
+	
+	padding-bottom: 5px;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+ul.ex_menu li {
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+ul.sb_menu li a {
+	text-decoration: none;
+	color: grey;
+	padding-bottom: 20px;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+ul.ex_menu li a {
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+ul.sb_menu li a:hover, ul.ex_menu li a:hover {
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+p.spec {
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+p.infopost {
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+p.infopost a {
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+p.infopost a.com {
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+p.infopost a.com:hover {
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+p.infopost a.com span {
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+.content .mainbar .post_content a.rm {
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+
+.content p.pages {
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+.content p.pages span, .content p.pages a {
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+.content p.pages span, .content p.pages a:hover {
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+
+.content p.pages a {
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+.content p.pages small {
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+.content .mainbar .comment {
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+.content .mainbar .comment img.userpic {
+	
+	
+float : left;
+	
+}
+.subpage .content .mainbar h2 {
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+.fbg {
+	
+	background-color: #6a6a6a;
+	margin-left: -21%;
+	margin-right: -21%;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+.fbg_resize {
+	
+	background-color: #000000d4;
+	/* padding-left: 10px; */
+	width:100%;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+.fbg h2 {
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+.fbg img.gal {
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+.fbg .col {
+	margin:0;
+	float:left;
+	color: white;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+.fbg .c1 {
+	width: 300px;
+	margin-left: 175px;
+	padding: 10px;
+	
+	
+	
+	
+	
+	
+}
+.fbg .c2 {
+	width: 250px;
+	margin-left: 10px;
+	padding: 10px;
+	
+	
+	
+	
+	
+	
+}
+.fbg .c3 {
+	width: 250px;
+	margin-left: 60px;
+	padding: 10px;
+	
+	
+	
+	
+}
+.fbg .fbg_ul {
+	list-style-type: none;
+	
+	color: white;
+	
+	
+	
+	
+	
+	
+	
+}
+.fbg .fbg_ul li {
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+.fbg .fbg_ul li a {
+	
+	list-style-type: none;
+	color: white;
+	
+	
+	
+	
+	
+	
+	
+	
+	background:url(../images/li.gif) no-repeat left center;
+}
+.fbg .fbg_ul li a:hover {
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+.fbg p.contact_info {
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+.fbg p.contact_info a {
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+.fbg p.contact_info span {
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+ol {
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+ol li {
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+ol li label {
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+ol li input.text {
+	width: 100%;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+ol li textarea {
+	width: 100%;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+ol li .send {
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+.searchform {
+	display: inline-block;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+#formsearch {
+	position: absolute;
+	top: 0;
+	right: 0;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+#formsearch span {
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	background:url(../images/search_bg.gif) no-repeat left top;
+}
+#formsearch input.editbox_search {
+	display: inline-block;
+	border: 2px solid lightgrey;
+    border-radius: 4px;
+	padding: 10px;
+	margin-right: 0px;
+	margin-top: -20px;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+
+#formsearch .button_search {
+	
+	
+	
+	margin-right: 200px;
+	margin-top: 10px;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+.footer {
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+.footer_resize {
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+.footer_resize p {
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+.footer_resize a {
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+.footer_resize a:hover {
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+.footer_resize .lf {
+	float: left;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+.footer_resize .rf {
+	float: right;
+	
+	
+	
+	
+	
+	
+	
+	
+}
+a {
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+.content .sidebar .gadget .star{
+	background-color: orange;
+}
+
